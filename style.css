@@ -188,25 +188,4 @@ input[type="submit"]:hover
  	border-radius: 10px;
  
  }
- #mobilepic ul
- {
- 	list-style: none;
 
- }
-
-#mobilepic ul li
-{
-	float: left;
-	font-family: Calibri Regular;
-}
-#mobilepic ul li img
-{
-	width: 120px;
-	height: 120px;
-	border:1px #e39d06 solid;
-	padding: 14px 21px;
-	border-radius: 7px;
-	margin-right: 30px;
-	margin-left: 24px;
-	float: left;
-}
